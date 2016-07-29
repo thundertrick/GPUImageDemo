@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
         android:padding="10dp"
-        android:src="@mipmap/ic_launcher" />
+        android:src="@mipmap/ic_switch_camera" />
 
     <LinearLayout
         android:id="@+id/bar"
